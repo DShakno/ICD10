@@ -1,5 +1,5 @@
 # ICD-10 codes from www.icd10data.com
-## Provide www.icd10data.com url and get ICD10 codes in specified format
+## Provide www.icd10data.com url and starting code. Get ICD10 codes in specified format.
 
 ### ICD10_to_comma_string.py
 - Returns all ICD-10 codes in comma seperated string format
